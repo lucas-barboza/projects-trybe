@@ -94,10 +94,7 @@ Projetos realizados durante minha formação na Trybe.
 
 ## 8- Trybe and Dragons:
 ### Tecnologias usadas:
-* SQL.
-* MySQL Workbench.
 * TypeScript.
-* Princípios REST.
 * ESLint.
 ### Objetivos:
 * Aplicar os princípios da arquitetura SOLID.
