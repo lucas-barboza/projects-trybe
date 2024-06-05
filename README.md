@@ -194,3 +194,17 @@ Projetos realizados durante minha formação na Trybe.
 * Permite cadastrar as pessoas eleitoras que participarão da votação, incluindo seus nomes e CPFs.
 * Coordena o processo de votação, permitindo que as pessoas eleitoras registrem seus votos nas pessoas candidatas cadastradas.
 * Oferece a funcionalidade de verificar os resultados parciais durante o processo de votação e o resultado final após o encerramento das votações.
+
+## 2- Localizador de Museus:
+### Tecnologias usadas:
+* Java.
+* Docker.
+* Spring.
+### Objetivos:
+* Criação de classes de controle e suas rotas para gerenciar as funcionalidades da API.
+* Implementação de classes de serviço para processar as operações de busca por museus.
+* Utilização de injeção de dependências para organizar e facilitar o acesso aos recursos necessários.
+* Tratamento de exceções customizadas para lidar com situações inesperadas de forma adequada.
+* Gerenciamento de erros na API, garantindo uma resposta clara e consistente em caso de problemas.
+* Implementação de testes unitários para garantir a cobertura de código e a qualidade do software.
+* Configuração de ambiente Docker para facilitar o desenvolvimento, implantação e execução da aplicação.
