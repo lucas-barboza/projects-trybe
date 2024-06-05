@@ -3,18 +3,18 @@ Projetos realizados durante minha formação na Trybe.
 
 ## Índice
 ### Back-end:
-1. [Docker Todo List](#docker-todo-list)
-2. [MySQL All For One](#mysql-all-for-one)
-3. [MySQL One For All](#mysql-one-for-all)
-4. [Talker Manager](#talker-manager)
-5. [Store Manager](#store-manager)
-6. [Blogs API](#blogs-api)
-7. [Trybesmith](#trybesmith)
-8. [Trybe and Dragons](#trybe-and-dragons)
-9. [Trybe Futebol Clube](#trybe-futebol-clube)
+1. [Docker Todo List](#1--docker-todo-list)
+2. [MySQL All For One](#2--mysql-all-for-one)
+3. [MySQL One For All](#3--mysql-one-for-all)
+4. [Talker Manager](#4--talker-manager)
+5. [Store Manager](#5--store-manager)
+6. [Blogs API](#6--blogs-api)
+7. [Trybesmith](#7--trybesmith)
+8. [Trybe and Dragons](#8--trybe-and-dragons)
+9. [Trybe Futebol Clube](#9--trybe-futebol-clube)
 
 ### Ciência da Computação:
-1. [Algoritmos](#algoritmos)
+1. [Algoritmos](#1--algoritmos)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
