@@ -100,4 +100,25 @@ Projetos realizados durante minha formação na Trybe.
 * Aplicar os princípios da arquitetura SOLID.
 * Implementar os princípios de Programação Orientada a Objetos (POO).
 
+## 9-  Trybe Futebol Clube:
+### Tecnologias usadas:
+* SQL.
+* MySQL Workbench.
+* TypeScript.
+* Sequelize.
+* Node.js.
+* Docker e docker-compose.
+* Utilizar arquitetura MSC (Model-Service-Controller).
+* JWT (JSON Web Token) para autenticação.
+* Princípios REST.
+* ESLint.
+* Testes unitários.
+### Objetivos:
+* Desenvolver endpoints conectados ao banco de dados seguindo os princípios do REST.
+* Implementar todas as camadas da aplicação (Models, Service e Controllers) utilizando Sequelize como ORM.
+* Garantir a funcionalidade de Criação, Leitura, Atualização e Exclusão de dados (CRUD).
+* Implementar autenticação utilizando JWT (JSON Web Token).
+* Criar e gerenciar ambientes isolados com Docker e docker-compose.
+* Escrever testes unitários para garantir a qualidade do código.
+
 
