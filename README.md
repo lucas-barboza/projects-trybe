@@ -236,3 +236,19 @@ Projetos realizados durante minha formação na Trybe.
 * Implementação de buscas customizadas para melhorar a eficiência do sistema.
 * Utilização de campos de data nas rotas da API e no banco de dados para facilitar a visualização e análise dos dados.
 * Inclusão de testes unitários para garantir a qualidade e funcionamento correto da implementação, com cobertura de código adequada.
+
+## 5- Agrix Fase C:
+### Tecnologias usadas:
+* Java.
+* Spring Boot.
+* Spring Data JPA.
+* Spring Security.
+* Docker.
+### Objetivos:
+* Expansão das rotas da API utilizando o ecossistema Spring.
+* Implementação de buscas customizadas para melhorar a eficiência do sistema.
+* Utilização de campos de data nas rotas da API e no banco de dados para facilitar a visualização e análise dos dados.
+* Inclusão de autenticação com Spring Security para garantir a segurança da aplicação.
+* Garantia de que diferentes rotas atendam a regras específicas de autorização.
+* Utilização de JWT para autenticação e autorização.
+* Configuração da aplicação para execução no Docker.
