@@ -20,7 +20,8 @@ Projetos realizados durante minha formação na Trybe.
 
 ### Eletiva JAVA:
 1. [Regra de Progressão](#1--regra-de-progressão)
-1. [Sistema de Votação](#2--sistema-de-votação)
+2. [Sistema de Votação](#2--sistema-de-votação)
+3. [Agrix Fase A](#3--agrix-fase-a)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
@@ -208,3 +209,16 @@ Projetos realizados durante minha formação na Trybe.
 * Gerenciamento de erros na API, garantindo uma resposta clara e consistente em caso de problemas.
 * Implementação de testes unitários para garantir a cobertura de código e a qualidade do software.
 * Configuração de ambiente Docker para facilitar o desenvolvimento, implantação e execução da aplicação.
+
+## 3- Agrix Fase A:
+### Tecnologias usadas:
+* Java.
+* Spring Boot.
+* Spring Data JPA.
+* Docker.
+### Objetivos:
+* Criar rotas da API utilizando o ecossistema Spring.
+* Utilizar injeção de dependência para conectar as camadas de controle, serviço e persistência.
+* Implementar entidades e repositórios utilizando o Spring Data JPA para persistência em banco de dados.
+* Gerenciar erros no Spring Web.
+* Configurar a aplicação para execução no Docker.
