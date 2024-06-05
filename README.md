@@ -2,7 +2,7 @@
 Projetos realizados durante minha formação na Trybe.
 
 ## Índice
-
+### Back-end:
 1. [Docker Todo List](#docker-todo-list)
 2. [MySQL All For One](#mysql-all-for-one)
 3. [MySQL One For All](#mysql-one-for-all)
@@ -12,6 +12,9 @@ Projetos realizados durante minha formação na Trybe.
 7. [Trybesmith](#trybesmith)
 8. [Trybe and Dragons](#trybe-and-dragons)
 9. [Trybe Futebol Clube](#trybe-futebol-clube)
+
+### Ciência da Computação:
+1. [Algoritmos](#algoritmos)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
@@ -133,4 +136,14 @@ Projetos realizados durante minha formação na Trybe.
 * Criar e gerenciar ambientes isolados com Docker e docker-compose.
 * Escrever testes unitários para garantir a qualidade do código.
 
-
+# Projetos Ciência da Computação:
+## 1- Algoritmos:
+### Tecnologias usadas:
+* Python.
+* Pytest.
+### Objetivos:
+* Desenvolvimento de Algoritmos de Busca: Implementar e aperfeiçoar diferentes algoritmos de busca para encontrar soluções eficientes.
+* Implementação de Testes: Desenvolver testes automatizados para validar a correção e a eficácia dos algoritmos implementados.
+* Uso de Recursividade: Explorar soluções recursivas para problemas que se beneficiam desta abordagem, melhorando a clareza e a performance do código.
+* Iteratividade em Algoritmos: Implementar e comparar soluções iterativas, analisando seus benefícios em termos de performance e uso de memória
+* Otimização de Algoritmos: Refinar e melhorar algoritmos existentes para aumentar a eficiência e a velocidade de execução.
