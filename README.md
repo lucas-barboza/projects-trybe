@@ -18,6 +18,9 @@ Projetos realizados durante minha formação na Trybe.
 2. [TING - Trybe Is Not Google](#2--ting---trybe-is-not-google)
 3. [Restaurant Orders](#3--restaurant-orders)
 
+### Eletiva JAVA:
+1. [Regra de Progressão](#1--regra-de-progressão)
+
 # Projetos Back-end:
 ## 1- Docker Todo List:
 ### Tecnologias usadas:
