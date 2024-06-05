@@ -15,7 +15,7 @@ Projetos realizados durante minha formação na Trybe.
 
 ### Ciência da Computação:
 1. [Algoritmos](#1--algoritmos)
-2. [TING](#2--ting-trybe-is-not-google)
+2. [TING - Trybe Is Not Google](#2--ting---trybe-is-not-google)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
