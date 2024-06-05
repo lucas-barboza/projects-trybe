@@ -20,6 +20,7 @@ Projetos realizados durante minha formação na Trybe.
 
 ### Eletiva JAVA:
 1. [Regra de Progressão](#1--regra-de-progressão)
+1. [Sistema de Votação](#2--sistema-de-votação)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
@@ -184,3 +185,12 @@ Projetos realizados durante minha formação na Trybe.
 * Os alunos podem cadastrar exercícios e projetos para o período em questão, permitindo um controle completo sobre suas atividades.
 * Após cadastrar as atividades, os alunos podem inserir as notas obtidas nos exercícios e projetos, com o programa calculando automaticamente o percentual alcançado.
 * Com base no percentual alcançado, o programa determina se o aluno foi aprovado ou reprovado, sendo a aprovação alcançada ao superar o limite de 85%.
+
+## 2- Sistema de Votação:
+### Tecnologias usadas:
+* Java.
+### Objetivos:
+* Permite registrar as pessoas candidatas que participarão da eleição, incluindo seus nomes e números identificadores para votação.
+* Permite cadastrar as pessoas eleitoras que participarão da votação, incluindo seus nomes e CPFs.
+* Coordena o processo de votação, permitindo que as pessoas eleitoras registrem seus votos nas pessoas candidatas cadastradas.
+* Oferece a funcionalidade de verificar os resultados parciais durante o processo de votação e o resultado final após o encerramento das votações.
