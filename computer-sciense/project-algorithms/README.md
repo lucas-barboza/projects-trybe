@@ -15,6 +15,7 @@ Os principais objetivos do projeto incluíram:
 
 * Python.
 * Pytest.
+* Flake8.
 
 ## Instalando Dependências
 

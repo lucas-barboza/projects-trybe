@@ -141,9 +141,21 @@ Projetos realizados durante minha formação na Trybe.
 ### Tecnologias usadas:
 * Python.
 * Pytest.
+* Flake8.
 ### Objetivos:
 * Desenvolvimento de Algoritmos de Busca: Implementar e aperfeiçoar diferentes algoritmos de busca para encontrar soluções eficientes.
 * Implementação de Testes: Desenvolver testes automatizados para validar a correção e a eficácia dos algoritmos implementados.
 * Uso de Recursividade: Explorar soluções recursivas para problemas que se beneficiam desta abordagem, melhorando a clareza e a performance do código.
 * Iteratividade em Algoritmos: Implementar e comparar soluções iterativas, analisando seus benefícios em termos de performance e uso de memória
 * Otimização de Algoritmos: Refinar e melhorar algoritmos existentes para aumentar a eficiência e a velocidade de execução.
+
+## 2- TING - Trybe Is Not Google:
+### Tecnologias usadas:
+* Python.
+* Pytest.
+* Flake8.
+### Objetivos:
+* Manipulação de Pilhas.
+* Manipulação de Deque.
+* Manipulação de Nós e Listas Ligadas.
+* Manipulação de Listas Duplamente Ligadas.
