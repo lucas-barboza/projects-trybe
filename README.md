@@ -16,6 +16,7 @@ Projetos realizados durante minha formação na Trybe.
 ### Ciência da Computação:
 1. [Algoritmos](#1--algoritmos)
 2. [TING - Trybe Is Not Google](#2--ting---trybe-is-not-google)
+3. [Restaurant Orders](#3--restaurant-orders)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
@@ -160,3 +161,15 @@ Projetos realizados durante minha formação na Trybe.
 * Manipulação de Deque.
 * Manipulação de Nós e Listas Ligadas.
 * Manipulação de Listas Duplamente Ligadas.
+
+## 3- Restaurant Orders:
+### Tecnologias usadas:
+* Python.
+* Pytest.
+* Flake8.
+### Objetivos:
+* Implementação de lógica para criar e gerenciar cardápios considerando restrições alimentares e disponibilidade de ingredientes.
+* Criação de testes automatizados para validar a correção e eficácia das funcionalidades implementadas no programa.
+* Utilização de estruturas como Hashmaps, Dict e Set do Python para mapear pratos, receitas, restrições alimentares e disponibilidade de ingredientes em estoque.
+* Aplicação dos conceitos de orientação a objetos para criar classes que representam pratos, receitas, cardápios e gestão de estoque de ingredientes.
+
