@@ -173,3 +173,11 @@ Projetos realizados durante minha formação na Trybe.
 * Utilização de estruturas como Hashmaps, Dict e Set do Python para mapear pratos, receitas, restrições alimentares e disponibilidade de ingredientes em estoque.
 * Aplicação dos conceitos de orientação a objetos para criar classes que representam pratos, receitas, cardápios e gestão de estoque de ingredientes.
 
+# Projetos Eletiva Java:
+## 1- Regra de Progressão:
+### Tecnologias usadas:
+* Java.
+### Objetivos:
+* Os alunos podem cadastrar exercícios e projetos para o período em questão, permitindo um controle completo sobre suas atividades.
+* Após cadastrar as atividades, os alunos podem inserir as notas obtidas nos exercícios e projetos, com o programa calculando automaticamente o percentual alcançado.
+* Com base no percentual alcançado, o programa determina se o aluno foi aprovado ou reprovado, sendo a aprovação alcançada ao superar o limite de 85%.
