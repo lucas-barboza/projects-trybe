@@ -1,0 +1,100 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1- Migre seu código da Fase A para este projeto (Fase B)",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2- Escreva testes com cobertura mínima de 80% das linhas da classe PersonService",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3- Ajuste (ou crie) a rota POST /farms/{farmId}/crops para utilizar datas",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4- Ajuste (ou crie) a rota GET /farms/{farmId}/crops para utilizar datas",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5- Ajuste (ou crie) a rota GET /crops para utilizar datas",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6- Ajuste (ou crie) a rota GET /crops/{id} para utilizar datas",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7- Crie a rota GET /crops/search para busca de plantações",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "8- Crie a rota POST /fertilizers",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "9- Crie a rota GET /fertilizers",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "10- Crie a rota GET /fertilizers/{id}",
+      "enabled": true,
+      "identifier": null,
+      "order": 10,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "11- Crie a rota POST /crops/{cropId}/fertilizers/{fertilizerId}",
+      "enabled": true,
+      "identifier": null,
+      "order": 11,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "12- Crie a rota GET /crops/{cropId}/fertilizers",
+      "enabled": true,
+      "identifier": null,
+      "order": 12,
+      "skill_ids": []
+    }
+  ]
+}

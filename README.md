@@ -22,6 +22,7 @@ Projetos realizados durante minha formação na Trybe.
 1. [Regra de Progressão](#1--regra-de-progressão)
 2. [Sistema de Votação](#2--sistema-de-votação)
 3. [Agrix Fase A](#3--agrix-fase-a)
+3. [Agrix Fase B](#4--agrix-fase-b)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
@@ -222,3 +223,16 @@ Projetos realizados durante minha formação na Trybe.
 * Implementar entidades e repositórios utilizando o Spring Data JPA para persistência em banco de dados.
 * Gerenciar erros no Spring Web.
 * Configurar a aplicação para execução no Docker.
+
+## 4- Agrix Fase B:
+### Tecnologias usadas:
+* Java.
+* Spring Boot.
+* Spring Data JPA.
+* Docker.
+* Testes unitários.
+### Objetivos:
+* Expansão das rotas da API utilizando o ecossistema Spring.
+* Implementação de buscas customizadas para melhorar a eficiência do sistema.
+* Utilização de campos de data nas rotas da API e no banco de dados para facilitar a visualização e análise dos dados.
+* Inclusão de testes unitários para garantir a qualidade e funcionamento correto da implementação, com cobertura de código adequada.
