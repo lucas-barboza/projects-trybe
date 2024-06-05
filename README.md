@@ -23,7 +23,7 @@ Projetos realizados durante minha formação na Trybe.
 2. [Sistema de Votação](#2--sistema-de-votação)
 3. [Agrix Fase A](#3--agrix-fase-a)
 4. [Agrix Fase B](#4--agrix-fase-b)
-5. [Agrix Fase c](#4--agrix-fase-c)
+5. [Agrix Fase c](#5--agrix-fase-c)
 
 # Projetos Back-end:
 ## 1- Docker Todo List:
