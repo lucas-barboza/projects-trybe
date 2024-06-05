@@ -116,7 +116,7 @@ Projetos realizados durante minha formação na Trybe.
 * Aplicar os princípios da arquitetura SOLID.
 * Implementar os princípios de Programação Orientada a Objetos (POO).
 
-## 9-  Trybe Futebol Clube:
+## 9- Trybe Futebol Clube:
 ### Tecnologias usadas:
 * SQL.
 * MySQL Workbench.
